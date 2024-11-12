@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NoteAppsFinal</string>
+    <string name="text_add">Tambah Catatan</string>
+    <string name="text_detail">Deskripsi Catatan</string>
+    <string name="text_edit">Edit Catatan</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="add_data">Add Data</string>
+    <string name="enter_title">Tambahkan Judul</string>
+    <string name="enter_description">Tambahkan Deskripsi</string>
+    <string name="description">Deskripsi</string>
+    <string name="title">Judul</string>
+    <string name="save">Save</string>
+    <string name="no_data_found">No data found</string>
+    <string name="data_successfully_deleted">data berhasil di hapus</string>
+    <string name="data_successfully_updated">data berhasil di update</string>
+    <string name="data_successfully_save">data berhasil di simpan</string>
+    <string name="description_empty_error">Description Tidak Boleh Kosong</string>
+    <string name="title_empty_error">Title Tidak Boleh Kosong</string>
+</resources>
